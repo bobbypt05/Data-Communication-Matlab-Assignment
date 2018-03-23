@@ -3,6 +3,7 @@
 This repository is a joint Matlab assignment of Data Communication.
 
 Contributors:
-- Chetan Prajapati - 16CO132
 - Bobby Patil - 16CO130
+- Chetan Prajapati - 16CO132
+
 
